@@ -1,9 +1,8 @@
-package com.atguigu.springcloud.Entities;
+package com.atguigu.springcloud.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import sun.plugin2.message.Serializer;
 
 import java.io.Serializable;
 
